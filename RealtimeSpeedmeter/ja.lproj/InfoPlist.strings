@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  RealtimeSpeedmeter
+
+  Created by Atsushi Otsubo on 2023/06/21.
+  
+*/
+
+"NSLocationWhenInUseUsageDescription" = "スピードの計測のために利用します";
+"CFBundleName" = "Speedmeterスピード";

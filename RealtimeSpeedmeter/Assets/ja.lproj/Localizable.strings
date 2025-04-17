@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  RealtimeSpeedmeter
+
+  Created by Atsushi Otsubo on 2023/04/05.
+  
+*/
+
+
+"acceleration_title" = "加速度";
+"measurement_method_title" = "計測方法";
+
+"unit_title" = "速度の単位";
+"speedmeter_upper_limit_title" = "スピードメータの上限";
+"theme_title" = "テーマ";
+
+"tutorial_title" = "正しく計測するために";
+"tutorial_message" = "加速度を使った速度計測時は、端末の背面側(カメラ側)を進行方向として認識します。\n端末を完全に横倒し(水平)にした状態や、電源や音量ボタン側(端末側面)を進行方向にした状態では正しく計測できませんのでご注意ください。";
