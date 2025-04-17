@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  RealtimeSpeedmeter
+
+  Created by Atsushi Otsubo on 2023/04/05.
+  
+*/
+
+"acceleration_title" = "Acceleration";
+"measurement_method_title" = "Method";
+
+"unit_title" = "Unit of speed";
+"speedmeter_upper_limit_title" = "Speedmeter upper limit";
+"theme_title" = "Theme";
+
+"tutorial_title" = "To measure correctly";
+"tutorial_message" = "When measuring speed using acceleration, the back side (camera side) of the device is recognized as the direction of travel.\nPlease note that it is not possible to measure correctly if the device is completely laid on its side (horizontal) or if the power or volume button side (side of the device) is facing the direction of travel.";
